@@ -5,10 +5,14 @@
 ##QUIZ
 * Explain which tabs support the following actions and how.
   * Realtime editing of HTML and CSS 
+    -Element
   * Javascript Debugging
+   - Sources- pause and break point
   * Performance Optimization 
-
+   - Timeline-  Record frame per second- rendering
+   - Profile- see what functions are called and how much CPU time they took 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
+  -Command+ alt + J
 
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
   * What is the current background color for the page?  (Surprisingly, it's not just black!)
