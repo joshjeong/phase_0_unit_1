@@ -2,7 +2,7 @@ Website url: http://joshjeong.github.io/
 
 Discuss the following in your reflection:
 
-*What did you learn about design and user experience?
+* What did you learn about design and user experience?
   - I feel much more comfortable dealing with CSS and am keeping in mind things such as having a responsive website.
 *Do you like design and user experience? Was it fun working on your site, the plan, and/or the wireframe? (If you hated it, that's OK too)
   - Yes, so far I like how it's coming along. It's following the general outline I had for the wireframe but there's still a lot of room for improving how the design and color scheme.
