@@ -1,6 +1,6 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
-<img src="http://minus.com/i/xBIY2yVORE5W" / >
+<img src="http://minus.com/i/xBIY2yVORE5W">
 
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
