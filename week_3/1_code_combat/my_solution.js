@@ -155,5 +155,14 @@ this.attackXY(60,47);
 this.attackXY(48,62);
 this.attackXY(48,55);
  
+ 
+What is this referring to? Think programming-wise rather than in the terms of the game.
+ - this is referring to the item selected
+What does the () do in JavaScript?
+ - () calls a method passing a parameter
+What is the point of the semicolons?
+ - ends and seprates statements
+
+
 // Reflection:
 // Write your reflection here.
