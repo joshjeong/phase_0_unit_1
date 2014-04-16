@@ -156,13 +156,22 @@ this.attackXY(48,62);
 this.attackXY(48,55);
  
  
-What is this referring to? Think programming-wise rather than in the terms of the game.
- - this is referring to the item selected
-What does the () do in JavaScript?
- - () calls a method passing a parameter
-What is the point of the semicolons?
- - ends and seprates statements
+// What is this referring to? Think programming-wise rather than in the terms of the game.
+//  - this is referring to the item selected
+// What does the () do in JavaScript?
+//  - () calls a method passing a parameter
+// What is the point of the semicolons?
+//  - ends and seprates statements
 
 
 // Reflection:
-// Write your reflection here.
+What parts of your strategy worked? What problems did you face?
+ - Writing in pseudocode then translating it to JavaScript worked as an efficient strategy. 
+What questions did you have while coding? What resources did you find to help you answer them?
+ - 
+What concepts are you having trouble with, or did you just figure something out? If so, what?
+Did you learn any new skills or tricks?
+
+How confident are you with each of the Learning Competencies?
+Which parts of the challenge did you enjoy?
+Which parts of the challenge did you find tedious?
