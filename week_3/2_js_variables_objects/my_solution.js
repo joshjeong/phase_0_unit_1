@@ -4,15 +4,21 @@
 
 
 // Pseudocode
-// 
-// 
-// 
-// 
+/*
+1. Create variable secretNumber and set it to 7
+2. Create variable password and set it to "just open the door"
+3. Create variable allowedIn and set it to false
+4. Create an array called members and have first member be John
+5. Fourth member should be Mary
 
+*/
 
 // __________________________________________
 // Write your code below.
-
+var secretNumber= 7
+var password= "just open the door"
+var allowedIn= false
+var members= ["John", "Jack", "James", "Mary"]
 
 
 
