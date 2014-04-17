@@ -15,25 +15,34 @@ var terah = {
 /* Pseudocode Section - write pseudocode for each challenge below.
 1. Define a variable adam and use object literal notation to assign this variable 
    the value of a JavaScript Object object with no properties.
+    - Create var adam and an empty hashmap
 
 2. Give adam a name property with the value "Adam".
+    - Set name to Adam inside curly brackets
 
 3. Add a spouse property to terah and assign it the value of adam.
-
+    - Set spouse to Adam in terah's hashmap
+    
 4. Change the value of the terah weight property to 125.
+    - Change weight from 130 to 125 in terah's hashmap
 
 5. Remove the eyeColor property from terah.
+    - Delete eyeColor: "brown"
 
 6. Add a spouse property to adam and assign it the value of terah.
+    - Set spouse to terah in adam var
 
 7. Add a children property to terah and and use object literal notation to assign 
    this variable the value of a JavaScript Object object with no properties
+    - Set children to an empty value under terah
 
 8. Add a carson property to the value of the terah children property and assign it 
   the value of an object with the property name with a value of "Carson".
+    - Now add value of "Carson" to children variable
 
 9. Add a carter property to the value of the terah children property and assign it 
    the value of an object with the property name with a value of "Carter".
+   
 
 10. Add a colton property to the value of the terah children property and assign it 
     the value of an object with the property name with a value of "Colton".
@@ -46,9 +55,25 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+var terah = {
+  name: "Terah",
+  age: 32,
+  height: 66,
+  weight: 130,
+  hairColor: "brown",
+  eyeColor: "brown"
+}
+terah[spouse]= adam
+terah[weight]= 125
+delete terah[eyeColor]
 
 
 
+
+
+var adam= {
+}
+adam[name]= "Adam"
 
 
 
