@@ -84,10 +84,13 @@ adam.children= terah.children
 //    - I always used brackets so dot notation was new to me. http://www.dev-archive.net/articles/js-dot-notation/
     
 // How confident are you with each of the learning objectives?
-//    -
+//    - So far, so good
 
 // Which parts of the challenge did you enjoy?
+//    - When I ran my code and there was no errors.
+
 // Which parts of the challenge did you find tedious?
+//    - None
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
 function assert(test, message, test_number) {
