@@ -168,14 +168,12 @@ this.attackXY(48,55);
 What parts of your strategy worked? What problems did you face?
  - Writing in pseudocode then translating it to JavaScript worked as an efficient strategy. 
 What questions did you have while coding? What resources did you find to help you answer them?
- - No quesitons on this exercise.
+ - I had to refresh on JavaScript functiions and syntax. I went back and retook the codeacademy exercises.
 What concepts are you having trouble with, or did you just figure something out? If so, what?
- - 
+ - After refreshing my memory, no questions regarding the Code Combat.
 Did you learn any new skills or tricks?
  - I'm new to Javascript so functions are still a little new.
-How confident are you with each of the Learning Competencies?
-
 Which parts of the challenge did you enjoy?
-- The game helped to understand what JavaScript "this."
+- The game helped to understand the conecpt of JavaScript's "this."
 Which parts of the challenge did you find tedious?
-- 
+- Documenting all the pseudo code was a little tedious towards the end.
