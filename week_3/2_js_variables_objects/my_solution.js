@@ -1,4 +1,4 @@
-// I paired [by myself, with:] on this challenge.
+// I paired [by myself] on this challenge.
 
 
 
@@ -9,7 +9,7 @@
 2. Create variable password and set it to "just open the door"
 3. Create variable allowedIn and set it to false
 4. Create an array called members and have first member be John
-5. Fourth member should be Mary
+5. Fourth member in array should be Mary
 
 */
 
@@ -27,14 +27,27 @@ var members= ["John", "Jack", "James", "Mary"]
 
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
-
+Code is already simple and D.R.Y.
 
 
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
+What parts of your strategy worked? What problems did you face?
+  - Running the driver code first to see what the errors were and what was needed was crucial.
+What questions did you have while coding? What resources did you find to help you answer them?
+  - No questions, exercise was straight forward.
+What concepts are you having trouble with, or did you just figure something out? If so, what?
+  - I refreshed how to create variables in JavaScript by completing codeacademy.
+Did you learn any new skills or tricks?
+  - By looking at the driver code I learned assert() and typeof.
+How confident are you with each of the learning objectives?
+  - Fairly comfortable
+Which parts of the challenge did you enjoy?
+  - First time using a driver code. I thought it was a cool way of doing an exercise.
+Which parts of the challenge did you find tedious?
+  - None
 // 
 // 
 // 
