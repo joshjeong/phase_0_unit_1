@@ -18,31 +18,40 @@ var terah = {
     - Create new empty object for var adam
 
 2. Give adam a name property with the value "Adam".
-    - Dot notation name property 
+    - Assign the name property value of "Adam" to adam using dot notation.
     
 3. Add a spouse property to terah and assign it the value of adam.
+    - Use dot notation to add spouse property of adam to terah.
 
 4. Change the value of the terah weight property to 125.
-
+    - Use dot notation to change terah's weight property from 130 to 125
+    
 5. Remove the eyeColor property from terah.
-
+    - Delete eyeColor property from terah
 6. Add a spouse property to adam and assign it the value of terah.
-  
+    - Use dot notation to give spouse value of terah to adam.
+    
 7. Add a children property to terah and and use object literal notation to assign 
    this variable the value of a JavaScript Object object with no properties
+    - Use dot notation to add children property to terah and create a new empty object
   
 8. Add a carson property to the value of the terah children property and assign it 
   the value of an object with the property name with a value of "Carson".
+    - Use dot notation to create carson property to children property to terah and assign
+    value of Carson.
   
 9. Add a carter property to the value of the terah children property and assign it 
    the value of an object with the property name with a value of "Carter".
-   
+   - Use dot notation to create carter property to children property to terah and assign
+    value of Carter.
 
 10. Add a colton property to the value of the terah children property and assign it 
     the value of an object with the property name with a value of "Colton".
+    - Use dot notation to create colton property to children property to terah and assign
+    value of Colton.
 
 11. Add a children property to adam and assign it the value of terah children.
-
+    - Use dot notation to create children property to adam and assign it terah children.
 
 */
 
@@ -68,14 +77,17 @@ adam.children= terah.children
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
+// What parts of your strategy worked? What problems did you face?
+//    - Running the driver code helped to see what was exactly being asked for and where the errors were.
 
+// What questions did you have while coding? What resources did you find to help you answer them?
+//    - I always used brackets so dot notation was new to me. http://www.dev-archive.net/articles/js-dot-notation/
+    
+// How confident are you with each of the learning objectives?
+//    -
 
+// Which parts of the challenge did you enjoy?
+// Which parts of the challenge did you find tedious?
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
 function assert(test, message, test_number) {
